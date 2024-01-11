@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: MentalKita
+Version: 1.0
+Requires-Dist: pandas==2.1.4
+Requires-Dist: matplotlib==3.8.2
